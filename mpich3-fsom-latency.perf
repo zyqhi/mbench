@@ -1,0 +1,287 @@
+mpich3-fsom
+-------- 2 --------
+P[0]:	Msg size: 2	 Latancy: 0.000023
+P[4]:	Msg size: 2	 Latancy: 0.000025
+P[8]:	Msg size: 2	 Latancy: 0.000023
+P[12]:	Msg size: 2	 Latancy: 0.000024
+P[7]:	Msg size: 2	 Latancy: 0.000010
+P[15]:	Msg size: 2	 Latancy: 0.000010
+P[11]:	Msg size: 2	 Latancy: 0.000135
+P[10]:	Msg size: 2	 Latancy: 0.000021
+P[2]:	Msg size: 2	 Latancy: 0.000018
+P[9]:	Msg size: 2	 Latancy: 0.000021
+P[1]:	Msg size: 2	 Latancy: 0.000025
+P[3]:	Msg size: 2	 Latancy: 0.000335
+P[6]:	Msg size: 2	 Latancy: 0.000015
+P[14]:	Msg size: 2	 Latancy: 0.000021
+P[13]:	Msg size: 2	 Latancy: 0.000021
+P[5]:	Msg size: 2	 Latancy: 0.000031
+-------- 4 --------
+P[12]:	Msg size: 4	 Latancy: 0.000023
+P[0]:	Msg size: 4	 Latancy: 0.000024
+P[4]:	Msg size: 4	 Latancy: 0.000024
+P[8]:	Msg size: 4	 Latancy: 0.000022
+P[1]:	Msg size: 4	 Latancy: 0.000020
+P[5]:	Msg size: 4	 Latancy: 0.000025
+P[13]:	Msg size: 4	 Latancy: 0.000024
+P[6]:	Msg size: 4	 Latancy: 0.000032
+P[2]:	Msg size: 4	 Latancy: 0.000017
+P[10]:	Msg size: 4	 Latancy: 0.000016
+P[14]:	Msg size: 4	 Latancy: 0.000019
+P[9]:	Msg size: 4	 Latancy: 0.000021
+P[3]:	Msg size: 4	 Latancy: 0.000013
+P[7]:	Msg size: 4	 Latancy: 0.000013
+P[15]:	Msg size: 4	 Latancy: 0.000016
+P[11]:	Msg size: 4	 Latancy: 0.000013
+-------- 8 --------
+P[0]:	Msg size: 8	 Latancy: 0.000023
+P[4]:	Msg size: 8	 Latancy: 0.000022
+P[12]:	Msg size: 8	 Latancy: 0.000022
+P[8]:	Msg size: 8	 Latancy: 0.000024
+P[2]:	Msg size: 8	 Latancy: 0.000023
+P[6]:	Msg size: 8	 Latancy: 0.000024
+P[14]:	Msg size: 8	 Latancy: 0.000023
+P[10]:	Msg size: 8	 Latancy: 0.000024
+P[1]:	Msg size: 8	 Latancy: 0.000029
+P[5]:	Msg size: 8	 Latancy: 0.000024
+P[9]:	Msg size: 8	 Latancy: 0.000025
+P[15]:	Msg size: 8	 Latancy: 0.000020
+P[7]:	Msg size: 8	 Latancy: 0.000013
+P[3]:	Msg size: 8	 Latancy: 0.000012
+P[11]:	Msg size: 8	 Latancy: 0.000015
+P[13]:	Msg size: 8	 Latancy: 0.000026
+-------- 16 --------
+P[4]:	Msg size: 16	 Latancy: 0.000023
+P[8]:	Msg size: 16	 Latancy: 0.000023
+P[0]:	Msg size: 16	 Latancy: 0.000025
+P[12]:	Msg size: 16	 Latancy: 0.000023
+P[15]:	Msg size: 16	 Latancy: 0.000100
+P[7]:	Msg size: 16	 Latancy: 0.000105
+P[13]:	Msg size: 16	 Latancy: 0.000221
+P[1]:	Msg size: 16	 Latancy: 0.000167
+P[3]:	Msg size: 16	 Latancy: 0.000131
+P[14]:	Msg size: 16	 Latancy: 0.000022
+P[6]:	Msg size: 16	 Latancy: 0.000018
+P[9]:	Msg size: 16	 Latancy: 0.000365
+P[11]:	Msg size: 16	 Latancy: 0.000304
+P[5]:	Msg size: 16	 Latancy: 0.000431
+P[2]:	Msg size: 16	 Latancy: 0.000011
+P[10]:	Msg size: 16	 Latancy: 0.000008
+-------- 32 --------
+P[0]:	Msg size: 32	 Latancy: 0.000024
+P[8]:	Msg size: 32	 Latancy: 0.000027
+P[6]:	Msg size: 32	 Latancy: 0.000012
+P[14]:	Msg size: 32	 Latancy: 0.000012
+P[4]:	Msg size: 32	 Latancy: 0.000008
+P[12]:	Msg size: 32	 Latancy: 0.000008
+P[10]:	Msg size: 32	 Latancy: 0.000008
+P[2]:	Msg size: 32	 Latancy: 0.000015
+P[9]:	Msg size: 32	 Latancy: 0.000013
+found in unexpected queue
+found in unexpected queue
+P[1]:	Msg size: 32	 Latancy: 0.000021
+P[13]:	Msg size: 32	 Latancy: 0.000013
+P[5]:	Msg size: 32	 Latancy: 0.000013
+found in unexpected queueP[11]:	Msg size: 32	 Latancy: 0.000015
+P[7]:	Msg size: 32	 Latancy: 0.000022
+
+P[3]:	Msg size: 32	 Latancy: 0.000015
+found in unexpected queue
+P[15]:	Msg size: 32	 Latancy: 0.000064
+-------- 64 --------
+P[0]:	Msg size: 64	 Latancy: 0.000026
+P[4]:	Msg size: 64	 Latancy: 0.000094
+P[8]:	Msg size: 64	 Latancy: 0.000027
+P[12]:	Msg size: 64	 Latancy: 0.000095
+P[10]:	Msg size: 64	 Latancy: 0.000157
+P[2]:	Msg size: 64	 Latancy: 0.000147
+P[6]:	Msg size: 64	 Latancy: 0.000086
+P[15]:	Msg size: 64	 Latancy: 0.000016
+P[7]:	Msg size: 64	 Latancy: 0.000015
+P[11]:	Msg size: 64	 Latancy: 0.000010
+P[3]:	Msg size: 64	 Latancy: 0.000010
+P[14]:	Msg size: 64	 Latancy: 0.000228
+P[5]:	Msg size: 64	 Latancy: 0.000027
+P[13]:	Msg size: 64	 Latancy: 0.000027
+P[1]:	Msg size: 64	 Latancy: 0.000016
+P[9]:	Msg size: 64	 Latancy: 0.000016
+-------- 128 --------
+P[0]:	Msg size: 128	 Latancy: 0.000024
+P[8]:	Msg size: 128	 Latancy: 0.000022
+P[12]:	Msg size: 128	 Latancy: 0.000027
+P[4]:	Msg size: 128	 Latancy: 0.000024
+P[13]:	Msg size: 128	 Latancy: 0.000167
+P[1]:	Msg size: 128	 Latancy: 0.000158
+P[10]:	Msg size: 128	 Latancy: 0.000026
+P[3]:	Msg size: 128	 Latancy: 0.000255
+P[11]:	Msg size: 128	 Latancy: 0.000256
+P[15]:	Msg size: 128	 Latancy: 0.000257
+P[2]:	Msg size: 128	 Latancy: 0.000026
+P[7]:	Msg size: 128	 Latancy: 0.000430
+P[5]:	Msg size: 128	 Latancy: 0.000421
+P[9]:	Msg size: 128	 Latancy: 0.000571
+found in unexpected queue
+found in unexpected queue
+P[14]:	Msg size: 128	 Latancy: 0.000075
+P[6]:	Msg size: 128	 Latancy: 0.000037
+-------- 256 --------
+P[4]:	Msg size: 256	 Latancy: 0.000049
+P[8]:	Msg size: 256	 Latancy: 0.000048
+P[12]:	Msg size: 256	 Latancy: 0.000054
+P[0]:	Msg size: 256	 Latancy: 0.000051
+P[6]:	Msg size: 256	 Latancy: 0.000313
+P[14]:	Msg size: 256	 Latancy: 0.000319
+P[1]:	Msg size: 256	 Latancy: 0.000082
+P[11]:	Msg size: 256	 Latancy: 0.000197
+P[7]:	Msg size: 256	 Latancy: 0.000224
+P[3]:	Msg size: 256	 Latancy: 0.000216
+P[13]:	Msg size: 256	 Latancy: 0.000015
+P[5]:	Msg size: 256	 Latancy: 0.000016
+P[2]:	Msg size: 256	 Latancy: 0.000510
+P[10]:	Msg size: 256	 Latancy: 0.000467
+P[15]:	Msg size: 256	 Latancy: 0.000392
+P[9]:	Msg size: 256	 Latancy: 0.000321
+-------- 512 --------
+P[4]:	Msg size: 512	 Latancy: 0.000052
+P[8]:	Msg size: 512	 Latancy: 0.000027
+P[0]:	Msg size: 512	 Latancy: 0.000027
+P[12]:	Msg size: 512	 Latancy: 0.000054
+P[14]:	Msg size: 512	 Latancy: 0.000059
+P[10]:	Msg size: 512	 Latancy: 0.000009
+P[2]:	Msg size: 512	 Latancy: 0.000008
+P[6]:	Msg size: 512	 Latancy: 0.000062
+P[3]:	Msg size: 512	 Latancy: 0.000011
+P[11]:	Msg size: 512	 Latancy: 0.000011
+P[7]:	Msg size: 512	 Latancy: 0.000080
+P[15]:	Msg size: 512	 Latancy: 0.000261
+found in unexpected queue
+found in unexpected queue
+P[13]:	Msg size: 512	 Latancy: 0.000023
+P[9]:	Msg size: 512	 Latancy: 0.000022
+P[1]:	Msg size: 512	 Latancy: 0.000036
+P[5]:	Msg size: 512	 Latancy: 0.000018
+-------- 1024 --------
+P[0]:	Msg size: 1024	 Latancy: 0.000027
+P[4]:	Msg size: 1024	 Latancy: 0.000026
+P[8]:	Msg size: 1024	 Latancy: 0.000026
+P[12]:	Msg size: 1024	 Latancy: 0.000024
+P[6]:	Msg size: 1024	 Latancy: 0.000020
+P[14]:	Msg size: 1024	 Latancy: 0.000021
+P[15]:	Msg size: 1024	 Latancy: 0.000021
+P[11]:	Msg size: 1024	 Latancy: 0.000018
+P[3]:	Msg size: 1024	 Latancy: 0.000019
+P[7]:	Msg size: 1024	 Latancy: 0.000021
+P[1]:	Msg size: 1024	 Latancy: 0.000028
+P[13]:	Msg size: 1024	 Latancy: 0.000017
+P[9]:	Msg size: 1024	 Latancy: 0.000031
+P[5]:	Msg size: 1024	 Latancy: 0.000017
+found in unexpected queue
+found in unexpected queue
+P[2]:	Msg size: 1024	 Latancy: 0.000015
+P[10]:	Msg size: 1024	 Latancy: 0.000012
+-------- 2048 --------
+P[0]:	Msg size: 2048	 Latancy: 0.000028
+P[4]:	Msg size: 2048	 Latancy: 0.000025
+P[8]:	Msg size: 2048	 Latancy: 0.000028
+P[12]:	Msg size: 2048	 Latancy: 0.000024
+P[3]:	Msg size: 2048	 Latancy: 0.000016
+P[7]:	Msg size: 2048	 Latancy: 0.000019
+P[5]:	Msg size: 2048	 Latancy: 0.000199
+P[1]:	Msg size: 2048	 Latancy: 0.000195
+P[2]:	Msg size: 2048	 Latancy: 0.000052
+P[11]:	Msg size: 2048	 Latancy: 0.000022
+P[10]:	Msg size: 2048	 Latancy: 0.000051
+P[9]:	Msg size: 2048	 Latancy: 0.000201
+P[15]:	Msg size: 2048	 Latancy: 0.000013
+P[6]:	Msg size: 2048	 Latancy: 0.000072
+P[13]:	Msg size: 2048	 Latancy: 0.000347
+P[14]:	Msg size: 2048	 Latancy: 0.000364
+-------- 4096 --------
+P[0]:	Msg size: 4096	 Latancy: 0.000030
+P[4]:	Msg size: 4096	 Latancy: 0.000029
+P[8]:	Msg size: 4096	 Latancy: 0.000029
+P[12]:	Msg size: 4096	 Latancy: 0.000028
+P[3]:	Msg size: 4096	 Latancy: 0.000067
+P[11]:	Msg size: 4096	 Latancy: 0.000063
+P[15]:	Msg size: 4096	 Latancy: 0.000063
+P[14]:	Msg size: 4096	 Latancy: 0.000084
+P[2]:	Msg size: 4096	 Latancy: 0.000101
+P[10]:	Msg size: 4096	 Latancy: 0.000090
+P[9]:	Msg size: 4096	 Latancy: 0.000090
+P[13]:	Msg size: 4096	 Latancy: 0.000080
+P[1]:	Msg size: 4096	 Latancy: 0.000110
+P[7]:	Msg size: 4096	 Latancy: 0.000180
+P[6]:	Msg size: 4096	 Latancy: 0.000288
+P[5]:	Msg size: 4096	 Latancy: 0.000378
+-------- 8192 --------
+P[0]:	Msg size: 8192	 Latancy: 0.000035
+P[8]:	Msg size: 8192	 Latancy: 0.000033
+P[12]:	Msg size: 8192	 Latancy: 0.000011
+P[4]:	Msg size: 8192	 Latancy: 0.000014
+P[14]:	Msg size: 8192	 Latancy: 0.000152
+P[6]:	Msg size: 8192	 Latancy: 0.000144
+P[2]:	Msg size: 8192	 Latancy: 0.000142
+P[5]:	Msg size: 8192	 Latancy: 0.000030
+P[13]:	Msg size: 8192	 Latancy: 0.000031
+P[3]:	Msg size: 8192	 Latancy: 0.000020
+P[11]:	Msg size: 8192	 Latancy: 0.000017
+P[10]:	Msg size: 8192	 Latancy: 0.000306
+P[15]:	Msg size: 8192	 Latancy: 0.000046
+P[7]:	Msg size: 8192	 Latancy: 0.000019
+P[9]:	Msg size: 8192	 Latancy: 0.000026
+found in unexpected queue
+found in unexpected queue
+P[1]:	Msg size: 8192	 Latancy: 0.000049
+-------- 16384 --------
+P[0]:	Msg size: 16384	 Latancy: 0.000046
+P[4]:	Msg size: 16384	 Latancy: 0.000041
+P[8]:	Msg size: 16384	 Latancy: 0.000041
+P[12]:	Msg size: 16384	 Latancy: 0.000045
+P[9]:	Msg size: 16384	 Latancy: 0.000261
+P[5]:	Msg size: 16384	 Latancy: 0.000254
+P[3]:	Msg size: 16384	 Latancy: 0.000098
+P[11]:	Msg size: 16384	 Latancy: 0.000091
+P[14]:	Msg size: 16384	 Latancy: 0.000044
+P[2]:	Msg size: 16384	 Latancy: 0.000046
+P[10]:	Msg size: 16384	 Latancy: 0.000046
+P[6]:	Msg size: 16384	 Latancy: 0.000039
+P[1]:	Msg size: 16384	 Latancy: 0.000399
+P[15]:	Msg size: 16384	 Latancy: 0.000329
+P[13]:	Msg size: 16384	 Latancy: 0.000463
+P[7]:	Msg size: 16384	 Latancy: 0.000462
+-------- 32768 --------
+P[0]:	Msg size: 32768	 Latancy: 0.000085
+P[8]:	Msg size: 32768	 Latancy: 0.000070
+P[4]:	Msg size: 32768	 Latancy: 0.000073
+P[12]:	Msg size: 32768	 Latancy: 0.000069
+P[7]:	Msg size: 32768	 Latancy: 0.000255
+P[10]:	Msg size: 32768	 Latancy: 0.000214
+P[14]:	Msg size: 32768	 Latancy: 0.000215
+P[11]:	Msg size: 32768	 Latancy: 0.000267
+P[6]:	Msg size: 32768	 Latancy: 0.000248
+found in unexpected queue
+P[9]:	Msg size: 32768	 Latancy: 0.000087
+P[2]:	Msg size: 32768	 Latancy: 0.000339
+found in unexpected queue
+P[1]:	Msg size: 32768	 Latancy: 0.000106
+P[15]:	Msg size: 32768	 Latancy: 0.000465
+P[13]:	Msg size: 32768	 Latancy: 0.000070
+P[5]:	Msg size: 32768	 Latancy: 0.000060
+P[3]:	Msg size: 32768	 Latancy: 0.000964
+-------- 64512 --------
+P[4]:	Msg size: 64512	 Latancy: 0.000084
+P[8]:	Msg size: 64512	 Latancy: 0.000103
+P[12]:	Msg size: 64512	 Latancy: 0.000080
+P[0]:	Msg size: 64512	 Latancy: 0.000119
+P[3]:	Msg size: 64512	 Latancy: 0.000311
+P[1]:	Msg size: 64512	 Latancy: 0.000204
+P[15]:	Msg size: 64512	 Latancy: 0.000339
+P[5]:	Msg size: 64512	 Latancy: 0.000119
+P[9]:	Msg size: 64512	 Latancy: 0.000252
+P[6]:	Msg size: 64512	 Latancy: 0.000231
+P[14]:	Msg size: 64512	 Latancy: 0.000223
+P[10]:	Msg size: 64512	 Latancy: 0.000367
+P[13]:	Msg size: 64512	 Latancy: 0.000350
+P[2]:	Msg size: 64512	 Latancy: 0.000743
+P[11]:	Msg size: 64512	 Latancy: 0.000731
+P[7]:	Msg size: 64512	 Latancy: 0.000754
