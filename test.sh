@@ -1,5 +1,6 @@
-msg_sz=16384
-sample_time=5
+proc_num=16
+msg_sz=`expr 1024 \* 60`
+sample_time=1
 
-mpicc -g mbench.c -o mbench
-mpiexec -n 8 -f machinefile ./mbench $msg_sz $sample_time
+mpicc  mbench.c -o mbench
+mpiexec -n $proc_num -f machinefile ./mbench $msg_sz $sample_time

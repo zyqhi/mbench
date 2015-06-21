@@ -142,10 +142,12 @@ int main(int argc, char *argv[])
 
     IMB_init(&C_INFO, 0, &iter_sdu, msg_sz);
     // 不要进行过barrier操作，否则会导致程序无法正常终止，索性影响不大
-    // MPI_Barrier(MPI_COMM_WORLD);
-    // do any stuff here
+    // 服务器测试程序时还是需要barrier的
+    MPI_Barrier(MPI_COMM_WORLD);
     IMB_bcast(&C_INFO, msg_sz, &iter_sdu, &time);
-    printf("Msg size: %d\t Latancy: %lf\n", msg_sz, time);
+
+    // 输出测试结果
+    printf("P[%d]:\tMsg size: %d\t Latancy: %lf\n", my_rank, msg_sz, time);
 
     IMB_finalize(&C_INFO, 0, &iter_sdu, msg_sz);
 
